@@ -1,0 +1,14 @@
+{
+  "name": "rss-hub",
+  "version": "1.0.0",
+  "description": "RSSHub is an open-source project designed to provide both RSS feeder and reader functionality. Built with the MEVN stack (MongoDB, Express.js, Vue.js, Node.js) and Vuetify, RSSHub allows users to easily manage and read their favorite RSS feeds in one convenient place.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .bin/www",
+    "watch": "nodemon --ignore '*.json' .bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kaan Yurdakoş <kaanyurdakosx@gmail.com>",
+  "license": "MIT"
+}
